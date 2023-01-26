@@ -18,3 +18,7 @@ Network of DBLP.
 ### Graph-based Authorship Identification and Portrait Sketching
 
 See [here](Graph-based%20AID.pdf).
+
+### Data Illustration by Network Sampling
+
+<img src="g.png" width=1000 height=1800>
