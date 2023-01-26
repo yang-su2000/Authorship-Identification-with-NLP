@@ -21,4 +21,4 @@ See [here](Graph-based%20AID.pdf).
 
 ### Data Illustration by Network Sampling
 
-<img src="g.png" width=1000 height=1800>
+<img src="g.png" width=1000 height=1500>
